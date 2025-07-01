@@ -9,5 +9,14 @@
       "Math",
       "Recursion"
     ]
+  },
+  {
+    "id": 9,
+    "title": "Palindrome Number",
+    "title_slug": "palindrome-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
