@@ -11,3 +11,4 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
