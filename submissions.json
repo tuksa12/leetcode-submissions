@@ -93,6 +93,18 @@
     ]
   },
   {
+    "id": 146,
+    "title": "LRU Cache",
+    "title_slug": "lru-cache",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 200,
     "title": "Number of Islands",
     "title_slug": "number-of-islands",
