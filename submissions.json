@@ -93,6 +93,16 @@
     ]
   },
   {
+    "id": 56,
+    "title": "Merge Intervals",
+    "title_slug": "merge-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 146,
     "title": "LRU Cache",
     "title_slug": "lru-cache",
