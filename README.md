@@ -15,6 +15,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Linked List` `Recursion` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
 | 0146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | Medium | `Design` `Doubly-Linked List` `Hash Table` `Linked List` |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
